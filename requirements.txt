@@ -1,0 +1,16 @@
+# Nexa Orchestrator - Python Dependencies
+
+# Core
+python-dotenv==1.0.0
+
+# Database
+mysql-connector-python==8.3.0
+
+# AI & LLM
+anthropic==0.18.1
+
+# Async
+aiohttp==3.9.3
+
+# Utils
+python-dateutil==2.8.2
