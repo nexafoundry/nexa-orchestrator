@@ -37,10 +37,7 @@ Variables d'environnement (.env):
 
 ```env
 # Database
-DB_HOST=127.0.0.1
-DB_NAME=nexasynapse
-DB_USER=nexasynapse
-DB_PASS=Vinsmcmc1!!
+
 
 # AI
 ANTHROPIC_API_KEY=sk-ant-...
